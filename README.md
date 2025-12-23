@@ -1,5 +1,5 @@
 # CodeAlpha_IrisFlowerClassification
-Data analyst project to classify Iris flowers using Python and scikit-learn
+Data Science project to classify Iris flowers using Python and scikit-learn
 # Iris Flower Classification
 
 ## Project Overview
